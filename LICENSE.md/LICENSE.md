@@ -6,8 +6,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 Replacing this license is NOT permitted. Instead, You can append another license with NGSL.
 
-**GyoSeok Lee(a.k.a PlavorSeol, pseol2190, and KSTableAdmin) is not eligible to use, modify or redistribute this software.**
+**GyoSeok Lee(as known PlavorSeol, pseol2190, and KSTableAdmin) is not eligible to use, modify or redistribute this software.**
 
-Sublicense is permitted with APPENDING. You can't override NGSL in ANY WAY.
+You can't override NGSL in ANY WAY.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
